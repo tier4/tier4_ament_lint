@@ -1,4 +1,4 @@
-ament_lint_common
+tier4_ament_lint_common
 =================
 
 A mechanism for running the following set of common linters:
@@ -19,4 +19,4 @@ A mechanism for running the following set of common linters:
 
 * `ament_cmake_xmllint <https://github.com/ament/ament_lint/blob/master/ament_cmake_xmllint/doc/index.rst>`_ : an xml linter
 
-The `ament_lint_auto <https://github.com/ament/ament_lint/blob/master/ament_lint_auto/doc/index.rst>`_ documentation provides information on using ament_lint_common.
+The `ament_lint_auto <https://github.com/ament/ament_lint/blob/master/ament_lint_auto/doc/index.rst>`_ documentation provides information on using tier4_ament_lint_common.

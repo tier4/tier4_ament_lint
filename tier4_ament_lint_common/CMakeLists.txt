@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(ament_lint_common NONE)
+project(tier4_ament_lint_common NONE)
 
 find_package(ament_cmake_core REQUIRED)
 find_package(ament_cmake_export_dependencies REQUIRED)
