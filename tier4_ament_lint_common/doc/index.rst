@@ -15,7 +15,7 @@ A mechanism for running the following set of common linters:
 
 * `ament_cmake_pep257 <https://github.com/ament/ament_lint/blob/master/ament_cmake_pep257/doc/index.rst>`_ : a style checker for Python docstrings
 
-* `ament_cmake_uncrustify <https://github.com/ament/ament_lint/blob/master/ament_cmake_uncrustify/doc/index.rst>`_ : a C++ style checker
+* `ament_cmake_clang_format <https://github.com/ament/ament_lint/blob/master/ament_cmake_clang_format/doc/index.rst>`_ : a C++ style checker
 
 * `ament_cmake_xmllint <https://github.com/ament/ament_lint/blob/master/ament_cmake_xmllint/doc/index.rst>`_ : an xml linter
 

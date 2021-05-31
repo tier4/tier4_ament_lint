@@ -23,7 +23,7 @@
   <exec_depend>ament_cmake_flake8</exec_depend>
   <exec_depend>ament_cmake_lint_cmake</exec_depend>
   <exec_depend>ament_cmake_pep257</exec_depend>
-  <exec_depend>ament_cmake_uncrustify</exec_depend>
+  <exec_depend>ament_cmake_clang_format</exec_depend>
   <exec_depend>ament_cmake_xmllint</exec_depend>
 
   <export>
